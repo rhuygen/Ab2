@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DataRecorder", "DataRecorder\DataRecorder.vbproj", "{319552EF-B070-44F8-8F15-1FBD9E1C4DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_GCS2_DLL_Class", "PI_GCS2_DLL_Class\PI_GCS2_DLL_Class.csproj", "{738A1A75-DCDD-4418-92D8-5D320CCA8E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319552EF-B070-44F8-8F15-1FBD9E1C4DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319552EF-B070-44F8-8F15-1FBD9E1C4DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319552EF-B070-44F8-8F15-1FBD9E1C4DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319552EF-B070-44F8-8F15-1FBD9E1C4DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738A1A75-DCDD-4418-92D8-5D320CCA8E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738A1A75-DCDD-4418-92D8-5D320CCA8E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738A1A75-DCDD-4418-92D8-5D320CCA8E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738A1A75-DCDD-4418-92D8-5D320CCA8E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

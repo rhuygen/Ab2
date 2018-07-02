@@ -1,0 +1,10 @@
+function c = SetDefaults(c)
+c.ID = -1;
+c.IDN = 'not queried yet';
+c.NumberOfAxes = 0;
+c.initialized = 0;
+c.GCSVersion = 1;
+c.NumberOfAnalogInputs = 0;
+c.DataRecorder.ppdValues = libpointer('doublePtr');
+c.DataRecorder.ValuesSize = [0 0];
+c.DataRecorder.SampleTime = 0;

@@ -1,0 +1,7 @@
+delay=1.0
+ablation_velocity=1.0
+spotsize=0.1
+transition_velocity=5.0
+referencex=0.0
+referencey=0.0
+filepath=C:/Users/7elipe/Dropbox/Ablation_2.0/Files/square.bmp
